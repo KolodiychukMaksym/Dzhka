@@ -1,13 +1,12 @@
 Makksimiaka ="Hello World"
-name ="Maksym"              #створюєм дані
+name ="Maksym"              
 surname ="Kolodiychuk"
 age =16
-
 print(Makksimiaka)
 print(name)
-print(surname) #Вивід в консоль
+print(surname) 
 print(age)
-
+print(type(Makksamiaka))
 print(type(name))
-print(type(surname))    #Визначеня типу
+print(type(surname))    
 print(type(age))
